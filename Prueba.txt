@@ -1,4 +1,3 @@
-insert
 ejemplo de edición
 la información fue actualizada
 se actualiza nuevamente la informacion
